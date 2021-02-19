@@ -1,0 +1,14 @@
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Services.deps.json
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Services.dll
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Services.pdb
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Data.dll
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Models.dll
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Data.pdb
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.1\Models.pdb
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.csprojAssemblyReference.cache
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.AssemblyInfoInputs.cache
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.AssemblyInfo.cs
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.csproj.CopyComplete
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.dll
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.pdb
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.1\Services.csproj.CoreCompileInputs.cache

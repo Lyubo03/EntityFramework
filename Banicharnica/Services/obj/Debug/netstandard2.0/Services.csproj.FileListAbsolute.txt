@@ -1,0 +1,5 @@
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Programing flex\EF\Banicharnica\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Programing flex\EF\Banicharnica\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache

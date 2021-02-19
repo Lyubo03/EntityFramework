@@ -1,0 +1,9 @@
+D:\Programing flex\EF\Banicharnica\Models\bin\Debug\netstandard2.1\Models.deps.json
+D:\Programing flex\EF\Banicharnica\Models\bin\Debug\netstandard2.1\Models.dll
+D:\Programing flex\EF\Banicharnica\Models\bin\Debug\netstandard2.1\Models.pdb
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.csprojAssemblyReference.cache
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.AssemblyInfoInputs.cache
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.AssemblyInfo.cs
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.dll
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.pdb
+D:\Programing flex\EF\Banicharnica\Models\obj\Debug\netstandard2.1\Models.csproj.CoreCompileInputs.cache

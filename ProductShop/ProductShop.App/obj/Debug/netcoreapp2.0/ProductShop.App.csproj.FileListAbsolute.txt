@@ -1,0 +1,17 @@
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.deps.json
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.json
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.dev.json
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.dll
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.pdb
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+D:\Programing flex\EF\ProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csprojAssemblyReference.cache
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfoInputs.cache
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfo.cs
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CopyComplete
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.dll
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.pdb
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.genruntimeconfig.cache
+D:\Programing flex\EF\ProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CoreCompileInputs.cache

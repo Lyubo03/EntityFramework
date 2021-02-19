@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programing flex\\EF\\ProductShop\\ProductShop.App\\ProductShop.App.csproj": {}
+  },
+  "projects": {
+    "D:\\Programing flex\\EF\\ProductShop\\ProductShop.App\\ProductShop.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.App\\ProductShop.App.csproj",
+        "projectName": "ProductShop.App",
+        "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.App\\ProductShop.App.csproj",
+        "packagesPath": "C:\\Users\\lubos\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\ProductShop.Data.csproj": {
+                "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\ProductShop.Data.csproj"
+              },
+              "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj": {
+                "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\ProductShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\ProductShop.Data.csproj",
+        "projectName": "ProductShop.Data",
+        "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\ProductShop.Data.csproj",
+        "packagesPath": "C:\\Users\\lubos\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj": {
+                "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj",
+        "projectName": "ProductShop.Models",
+        "projectPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\ProductShop.Models.csproj",
+        "packagesPath": "C:\\Users\\lubos\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing flex\\EF\\ProductShop\\ProductShop.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Programing flex\EF\Banicharnica\Data\bin\Debug\netstandard2.1\Models.dll
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.csprojAssemblyReference.cache
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+D:\Programing flex\EF\Banicharnica\Data\bin\Debug\netstandard2.1\Data.deps.json
+D:\Programing flex\EF\Banicharnica\Data\bin\Debug\netstandard2.1\Data.dll
+D:\Programing flex\EF\Banicharnica\Data\bin\Debug\netstandard2.1\Data.pdb
+D:\Programing flex\EF\Banicharnica\Data\bin\Debug\netstandard2.1\Models.pdb
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.csproj.CopyComplete
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.dll
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.pdb
+D:\Programing flex\EF\Banicharnica\Data\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
