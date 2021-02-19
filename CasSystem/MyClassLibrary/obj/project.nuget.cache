@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2V+sLMfBnMRlyLg1TZB1t6ePYtEs2AZW1i7elrplcOY2fge+fHWKBqzah9Oonl0nlQ7uo0zIj4hoiqSPJ2GMg==",
+  "success": true,
+  "projectFilePath": "D:\\Homework\\CasSystem\\MyClassLibrary\\MyClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

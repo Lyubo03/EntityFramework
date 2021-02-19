@@ -1,0 +1,13 @@
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.exe
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.deps.json
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.json
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.dev.json
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.dll
+D:\Homework\Design patterns\Templates\bin\Debug\netcoreapp3.1\Templates.pdb
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.csprojAssemblyReference.cache
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.csproj.CoreCompileInputs.cache
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfoInputs.cache
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfo.cs
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.dll
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.pdb
+D:\Homework\Design patterns\Templates\obj\Debug\netcoreapp3.1\Templates.genruntimeconfig.cache

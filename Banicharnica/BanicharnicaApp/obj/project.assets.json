@@ -5757,7 +5757,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lubos\\.nuget\\packages\\": {}
+    "C:\\Users\\lubos\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5768,6 +5769,9 @@
       "packagesPath": "C:\\Users\\lubos\\.nuget\\packages\\",
       "outputPath": "D:\\Programing flex\\EF\\Banicharnica\\BanicharnicaApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\lubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -5781,6 +5785,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "D:\\Programing flex\\EF\\Banicharnica\\Data\\Data.csproj": {
               "projectPath": "D:\\Programing flex\\EF\\Banicharnica\\Data\\Data.csproj"
@@ -5802,6 +5807,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -5831,7 +5837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

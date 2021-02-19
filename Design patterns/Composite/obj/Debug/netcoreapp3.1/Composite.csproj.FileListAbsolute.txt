@@ -1,0 +1,13 @@
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\Homework\Design patterns\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\Homework\Design patterns\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

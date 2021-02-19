@@ -1,0 +1,12 @@
+D:\Homework\PetStore.App\PetStore.Data\bin\Debug\netstandard2.1\PetStore.Data.deps.json
+D:\Homework\PetStore.App\PetStore.Data\bin\Debug\netstandard2.1\PetStore.Data.dll
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.csprojAssemblyReference.cache
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.AssemblyInfoInputs.cache
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.AssemblyInfo.cs
+D:\Homework\PetStore.App\PetStore.Data\bin\Debug\netstandard2.1\PetStore.Models.dll
+D:\Homework\PetStore.App\PetStore.Data\bin\Debug\netstandard2.1\PetStore.Data.pdb
+D:\Homework\PetStore.App\PetStore.Data\bin\Debug\netstandard2.1\PetStore.Models.pdb
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.csproj.CopyComplete
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.dll
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.pdb
+D:\Homework\PetStore.App\PetStore.Data\obj\Debug\netstandard2.1\PetStore.Data.csproj.CoreCompileInputs.cache

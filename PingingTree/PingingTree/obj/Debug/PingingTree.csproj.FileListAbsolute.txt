@@ -1,0 +1,7 @@
+D:\Homework\PingingTree\PingingTree\bin\Debug\PingingTree.exe.config
+D:\Homework\PingingTree\PingingTree\bin\Debug\PingingTree.exe
+D:\Homework\PingingTree\PingingTree\bin\Debug\PingingTree.pdb
+D:\Homework\PingingTree\PingingTree\obj\Debug\PingingTree.csprojAssemblyReference.cache
+D:\Homework\PingingTree\PingingTree\obj\Debug\PingingTree.csproj.CoreCompileInputs.cache
+D:\Homework\PingingTree\PingingTree\obj\Debug\PingingTree.exe
+D:\Homework\PingingTree\PingingTree\obj\Debug\PingingTree.pdb
